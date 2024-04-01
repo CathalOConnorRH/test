@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "location_id": "186638",
+      "name": "Waterford",
+      "address_obj": {
+        "state": "Province of Munster",
+        "country": "Ireland",
+        "address_string": "Waterford Ireland"
+      }
+    },
+    {
+      "location_id": "10166976",
+      "name": "Waterford Greenway",
+      "address_obj": {
+        "street2": "46 klm of old disused railway line now a cycle and pedestrian route between Waterford and Dungarvan.",
+        "city": "Waterford",
+        "state": "Province of Munster",
+        "country": "Ireland",
+        "address_string": "46 klm of old disused railway line now a cycle and pedestrian route between Waterford and Dungarvan., Waterford Ireland"
+      }
+    },
+    {
+      "location_id": "2644784",
+      "name": "Waterford Estate",
+      "address_obj": {
+        "street1": "Blaauwklippen Road",
+        "city": "Stellenbosch",
+        "state": "Western Cape",
+        "country": "South Africa",
+        "postalcode": "7600",
+        "address_string": "Blaauwklippen Road, Stellenbosch 7600 South Africa"
+      }
+    },
+    {
+      "location_id": "278432",
+      "name": "Tower Hotel Waterford",
+      "address_obj": {
+        "street1": "The Mall",
+        "street2": "",
+        "city": "Waterford",
+        "state": "Province of Munster",
+        "country": "Ireland",
+        "postalcode": "",
+        "address_string": "The Mall, Waterford Ireland"
+      }
+    },
+    {
+      "location_id": "505003",
+      "name": "Treacys Hotel Waterford",
+      "address_obj": {
+        "street1": "The Day's Inn 1 Merchants Quay",
+        "city": "Waterford",
+        "state": "Province of Munster",
+        "country": "Ireland",
+        "postalcode": "X91 AV9W",
+        "address_string": "The Day's Inn 1 Merchants Quay, Waterford X91 AV9W Ireland"
+      }
+    },
+    {
+      "location_id": "42796",
+      "name": "Waterford",
+      "address_obj": {
+        "state": "Michigan",
+        "country": "United States",
+        "address_string": "Waterford, MI"
+      }
+    },
+    {
+      "location_id": "277048",
+      "name": "Dooley's Hotel Waterford",
+      "address_obj": {
+        "street1": "Merchants Quay",
+        "street2": "",
+        "city": "Waterford",
+        "state": "Province of Munster",
+        "country": "Ireland",
+        "postalcode": "00353",
+        "address_string": "Merchants Quay, Waterford 00353 Ireland"
+      }
+    },
+    {
+      "location_id": "206327",
+      "name": "Waterford Marina Hotel",
+      "address_obj": {
+        "street1": "Canada Street",
+        "street2": "",
+        "city": "Waterford",
+        "state": "Province of Munster",
+        "country": "Ireland",
+        "postalcode": "X91 PK2W",
+        "address_string": "Canada Street, Waterford X91 PK2W Ireland"
+      }
+    },
+    {
+      "location_id": "33964",
+      "name": "Waterford",
+      "address_obj": {
+        "city": "Mystic Country",
+        "state": "Connecticut",
+        "country": "United States",
+        "address_string": "Waterford, CT"
+      }
+    },
+    {
+      "location_id": "212907",
+      "name": "Waterford Castle Hotel & Golf Resort",
+      "address_obj": {
+        "street1": "The Island",
+        "city": "Waterford",
+        "state": "Province of Munster",
+        "country": "Ireland",
+        "postalcode": "X91 Y722",
+        "address_string": "The Island, Waterford X91 Y722 Ireland"
+      }
+    }
+  ]
+}
